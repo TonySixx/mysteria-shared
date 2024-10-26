@@ -1,3 +1,5 @@
+// shared/game/CardClasses.js
+
 class Card {
     constructor(id, name, manaCost, effect, image, rarity) {
         this.id = id;
